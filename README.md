@@ -16,18 +16,23 @@ Both those algorithms are algorithms for unidirectional algorithms, but this app
 Overview of Contents
 ====================
 
-DistributedAlgorithmSimulator-CompleteProject
----------------------------------------------
+DistributedAlgorithmSimulator
+-----------------------------
 <ul>
   <li>Contains the entire project source code.</li>
   <li>Includes the Setup project.</li>
-  <li>Contains complete documentation in HTML and CHM formats.</li>
 </ul>
 
 DistributedAlgorithmSimulator-Setup
 -----------------------------------
 <ul>
   <li>Contains Setup binaries.</li>
+</ul>
+  
+DistributedAlgorithmSimulator-Documentation
+-------------------------------------------
+<ul>
+  <li>Contains complete documentation in HTML and CHM formats.</li>
 </ul>
   
 DistributedAlgorithmSimulator-UserGuide
